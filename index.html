@@ -835,6 +835,35 @@ function startTutorial2() {
 
 
 
+<div id="custom-comments"></div>
+
+<script>
+    // Function to set up Giscus in the custom-comments div
+    function setupGiscus() {
+        var giscus = new Giscus({
+            repo: 'NunitaH/from-scan-to-print',
+            repoId: 'R_kgDOLX0BFw',
+            category: 'Announcements',
+            categoryId: 'DIC_kwDOLX0BF84CdglV',
+            mapping: 'pathname',
+            strict: false,
+            reactionsEnabled: true,
+            emitMetadata: false,
+            inputPosition: 'top',
+            theme: 'preferred_color_scheme',
+            lang: 'en',
+        });
+
+        // Render Giscus in the custom-comments div
+        giscus.render(document.getElementById('custom-comments'));
+    }
+
+    // Call the function to set up Giscus in the custom-comments div
+    setupGiscus();
+</script>
+
+<!-- Include the Giscus script if you haven't already -->
+<script src="https://giscus.app/client.js" async></script>
 
 
 
@@ -974,20 +1003,6 @@ wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
 wp.apiFetch.nonceEndpoint = "https://nunitah.github.io/from-scan-to-print/wp-admin/admin-ajax.php?action=rest-nonce";</script>
 <script id="gutenverse-frontend-event-js-extra">var GutenverseData = {"postId":"102","query":{"q_search":null},"settingsData":[]};</script>
 <script src="https://nunitah.github.io/from-scan-to-print/wp-content/plugins/gutenverse/assets/js/frontend.js?ver=1.9.0" id="gutenverse-frontend-event-js"></script>
-<script src="https://giscus.app/client.js"
-        data-repo="NunitaH/from-scan-to-print"
-        data-repo-id="R_kgDOLX0BFw"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOLX0BF84CdglV"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
+
 </body>
 </html>

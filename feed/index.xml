@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Atelie </title>
+	<atom:link href="https://nunitah.github.io/from-scan-to-print/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nunitah.github.io/from-scan-to-print</link>
+	<description></description>
+	<lastBuildDate>Sun, 25 Feb 2024 16:50:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>EINSCAN PRO HD</title>
+		<link>https://nunitah.github.io/from-scan-to-print/einscan-pro-hd/</link>
+					<comments>https://nunitah.github.io/from-scan-to-print/einscan-pro-hd/#respond</comments>
+		
+		<dc:creator><![CDATA[cocopuncakes]]></dc:creator>
+		<pubDate>Sat, 24 Feb 2024 22:11:21 +0000</pubDate>
+				<category><![CDATA[Scanner]]></category>
+		<category><![CDATA[EINSCAN]]></category>
+		<category><![CDATA[SCANNER]]></category>
+		<category><![CDATA[TUTORIAL]]></category>
+		<guid isPermaLink="false">https://nunitah.github.io/from-scan-to-print/?p=379</guid>
+
+					<description><![CDATA[Learn more about EINSCAN PRO HD and create your first 3d model from object. ]]></description>
+										<content:encoded><![CDATA[
+<div class="section-wrapper" data-id="dkoHsi"><section class="wp-block-gutenverse-section guten-element guten-section guten-dkoHsi layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-rJTYmv animated guten-element-hide desktop-fadeInLeft"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="rJTYmv"><div class="guten-column-wrapper">
+<div class="guten-element guten-spacer guten-fNFYJ8"></div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="guten-element guten-spacer guten-x6BIuN"></div>
+
+
+<div class="guten-gp3uRT   guten-post-title guten-element"><h1>EINSCAN PRO HD</h1></div>
+
+
+<div class="wp-block-columns is-style-default has-zeever-primary-color has-text-color has-link-color wp-elements-a8943c0e437e54224f095774df3301ea is-layout-flex wp-container-core-columns-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-large-font-size">This brief tutorial is designed to help you kickstart your printing journey with the EinScan Pro HD. Follow these simple steps to set up your scanner and start creating high-quality 3D models. Let&#8217;s get started!</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button has-custom-width wp-block-button__width-50"><a class="wp-block-button__link has-zeever-third-color has-zeever-button-border-background-color has-text-color has-background has-link-color wp-element-button" href="http://guten-Dprc0W/">             Start tutorial         </a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%"></div>
+</div>
+
+
+
+<div class="guten-element guten-spacer guten-xpgpXs"></div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="Dprc0W"><section class="wp-block-gutenverse-section guten-element guten-section guten-Dprc0W layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-j6ojyR"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="j6ojyR"><div class="guten-column-wrapper">
+<div class="wp-block-columns has-large-font-size is-layout-flex wp-container-core-columns-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50px">
+<figure class="wp-block-image size-full wp-duotone-4abdb4-00a5ff-1"><img fetchpriority="high" decoding="async" width="512" height="512" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/attention-construction-triangular-hand-drawn-signal_58176.png" alt="" class="wp-image-393"/></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:500px">
+<h2 class="wp-block-heading">Warning Before Scanning Object:</h2>
+</div>
+</div>
+
+
+
+<div class="guten-element gutenverse-text-editor guten-7zBufl"><div class="text-content-inner">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<p class="has-zeever-button-border-color has-text-color has-link-color has-normal-font-size wp-elements-b6950fb8cef42bd7b8cefc5558ba2455">OBJECT TYPE</p>
+
+
+
+<p class="has-normal-font-size">To scan objects without problems, it is recommended to scan objects that have sufficient geometric features. Objects with few geometric features, such as flat surfaces, are difficult for feature alignment. In such cases, sticking markers on these areas is suggested to ensure accurate scanning and alignment.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<p class="has-zeever-button-border-color has-text-color has-link-color has-normal-font-size wp-elements-e433422fff7d592d9b99a087b7188ae1">NOT RECOMMENDED</p>
+
+
+
+<ul style="padding-top:0;padding-bottom:0" class="has-normal-font-size">
+<li><strong>Living organisms</strong></li>
+
+
+
+<li><strong>Transparent objects </strong></li>
+
+
+
+<li><strong>Sensitive electronic devices</strong></li>
+
+
+
+<li><strong>Fragile or valuable items</strong></li>
+
+
+
+<li><strong>Highly reflective and shiny surfaces</strong></li>
+
+
+
+<li class="has-normal-font-size"><strong>Explosive or flammable materials</strong></li>
+
+
+
+<li><strong>Biological or chemical hazards</strong></li>
+</ul>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="wgHCzp"><section class="wp-block-gutenverse-section guten-element guten-section guten-wgHCzp layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-lzVE5g"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="lzVE5g"><div class="guten-column-wrapper">
+<div class="wp-block-columns has-large-font-size is-layout-flex wp-container-core-columns-layout-4 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:300px">
+<h2 class="wp-block-heading">Requirements: </h2>
+</div>
+</div>
+
+
+
+<div class="guten-element gutenverse-text-editor guten-tjHGwK"><div class="text-content-inner">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-5 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-zeever-button-border-color has-text-color has-link-color has-normal-font-size wp-elements-7835428e84db7bff3fd1d0fcd85630ca"><strong>Minimum Configuration:</strong></p>
+
+
+
+<ul class="has-normal-font-size">
+<li><strong>Processor:</strong>&nbsp;Intel® Xeon E3-1230, Intel® i5-3470, Intel® i7-3770</li>
+
+
+
+<li><strong>Display Card:</strong>&nbsp;Nvidia Quadro P1000 or higher; Nvidia GTX660 or higher</li>
+
+
+
+<li><strong>Memory:</strong>&nbsp;8GB RAM</li>
+
+
+
+<li><strong>Storage:</strong>&nbsp;At least 8GB</li>
+
+
+
+<li><strong>USB:</strong>&nbsp;Minimum one USB 3.0 port</li>
+
+
+
+<li><strong>Screen Display:</strong>&nbsp;1920&#215;1080 resolution</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-zeever-button-border-color has-text-color has-link-color has-normal-font-size wp-elements-d4fdd7376c20b2d169e465ca0145ded8">Recommended Configuration:</p>
+
+
+
+<ul class="has-normal-font-size">
+<li><strong>Processor:</strong>&nbsp;i7-8700</li>
+
+
+
+<li><strong>Display Card:</strong>&nbsp;NVIDIA GTX1060 or higher</li>
+
+
+
+<li><strong>Memory:</strong>&nbsp;32GB or more</li>
+
+
+
+<li><strong>Storage:</strong>&nbsp;32GB or more</li>
+
+
+
+<li><strong>USB:</strong>&nbsp;At least one USB 3.0 port</li>
+
+
+
+<li><strong>Screen Display:</strong>&nbsp;1920&#215;1080 resolution</li>
+</ul>
+</div>
+</div>
+</div></div>
+
+
+
+<div class="section-wrapper" data-id="04qDQR"><section class="wp-block-gutenverse-section guten-element guten-section guten-04qDQR layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-UsuMNr"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="UsuMNr"><div class="guten-column-wrapper">
+<div class="guten-element guten-spacer guten-1AzUbB"></div>
+
+
+
+<div class="section-wrapper" data-id="aSZ2zR"><section class="wp-block-gutenverse-section guten-element guten-section guten-aSZ2zR animated guten-element-hide desktop-fadeInLeft layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-TuDziA"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="TuDziA"><div class="guten-column-wrapper">
+<figure class="wp-block-image size-full wp-duotone-4abdb4-ffffff-2"><img decoding="async" width="512" height="512" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/idea-bulb_8430663-1.png" alt="" class="wp-image-337"/></figure>
+</div></div></div>
+
+
+
+<div class="wp-block-gutenverse-column guten-element guten-column guten-xjnBPm"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="xjnBPm"><div class="guten-column-wrapper">
+<p class="has-zeever-primary-color has-text-color has-link-color wp-elements-a2e8d95c783384a623f4674877f0ae65"><strong>If the computer has multiple graphic card, access to the NVIDIA Control Panel (right click on the desktop). In Manage 3D Settings &gt; Program Settings, Add EXScan software. Then change the preferred graphic processor for this program. Select NVIDIA processor. Click Apply to save the settings.</strong></p>
+</div></div></div>
+</div></section></div>
+</div></div></div>
+</div></section></div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="o68yA1"><section class="wp-block-gutenverse-section guten-element guten-section guten-o68yA1 layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-zbGDgS"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="zbGDgS"><div class="guten-column-wrapper">
+<div class="guten-element guten-spacer guten-66t9Wz"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-8 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" width="1100" height="771" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/Screenshot-2024-02-24-202907-1.png" alt="" class="wp-image-397" style="aspect-ratio:3/2;object-fit:cover"/></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-6 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:120px">
+<h2 class="wp-block-heading has-zeever-button-border-color has-text-color has-link-color wp-elements-9bd63f1918354487329070569838771a">STEP 1</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading"><strong>Connect Power and USB</strong></h2>
+</div>
+</div>
+
+
+
+<ol>
+<li class="has-normal-font-size">Connect the scanner power line and adapter. Attach the evasion pod to the scanner.</li>
+
+
+
+<li class="has-normal-font-size">Connect the adapter and evasion line. Plug the USB end of the aviation line into the computer for the industry path.</li>
+</ol>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:160px">
+<figure class="wp-block-image size-full is-resized wp-duotone-4abdb4-ffffff-3"><img loading="lazy" decoding="async" width="2218" height="1426" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/pngegg.png" alt="" class="wp-image-399" style="width:163px;height:auto"/></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="guten-element guten-spacer guten-WeZTWC"></div>
+
+
+
+<p class="has-zeever-button-border-color has-text-color has-link-color has-large-font-size wp-elements-fd694f81c84b9cf3180c1c26100fe6d9">Check picture</p>
+</div>
+</div>
+</div>
+</div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="Cw40xF"><section class="wp-block-gutenverse-section guten-element guten-section guten-Cw40xF layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-h0J8jN"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="h0J8jN"><div class="guten-column-wrapper">
+<div class="guten-element guten-spacer guten-lcYJV1"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-10 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-9 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:120px">
+<h2 class="wp-block-heading has-zeever-button-border-color has-text-color has-link-color wp-elements-990abfe459e30fc37bd31042e165fe4b">STEP 2</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading"><strong>Scanner Calibration</strong></h2>
+</div>
+</div>
+
+
+
+<ol class="has-normal-font-size">
+<li class="has-normal-font-size">Ensure the software is installed on your system. If not go to <a href="https://www.einscan.com/software-download" data-type="link" data-id="https://www.einscan.com/software-download">installation.</a> Check how to install software <a href="https://it3d.com/wp-content/uploads/download-files/manual/en/EXScan-Pro-User-Manual-V3.3.0.2.pdf" rel="noreferrer noopener"> here page 14.</a> </li>
+
+
+
+<li class="has-normal-font-size"><strong>Open the installed software. -&gt;</strong>
+<ul>
+<li class="has-normal-font-size">Click on the &#8220;Calibrate&#8221; option following the on-screen instructions.</li>
+</ul>
+</li>
+
+
+
+<li class="has-normal-font-size"><strong>Positioning the Scanner:</strong>
+<ul>
+<li class="has-normal-font-size">Hold the scanner in your hand with the color camera side facing you.</li>
+
+
+
+<li class="has-normal-font-size">Place the calibration board according to the software guidance.</li>
+
+
+
+<li class="has-normal-font-size">Press the button on the scanner to activate capturing.</li>
+</ul>
+</li>
+
+
+
+<li><strong>Capture Process:</strong>
+<ul>
+<li class="has-normal-font-size">Follow the on-screen instructions to move the scanner across the calibration board.</li>
+
+
+
+<li class="has-normal-font-size">Capture all positions indicated by the software, ensuring the symbol turns green.</li>
+
+
+
+<li class="has-normal-font-size">The software will automatically guide you to the next position.</li>
+</ul>
+</li>
+</ol>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="560" height="315" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/gif-7.gif" alt="" class="wp-image-401" style="aspect-ratio:3/2;object-fit:cover;width:557px;height:auto"/></figure>
+
+
+
+<div class="guten-element guten-spacer guten-nOGTdA"></div>
+
+
+
+<div class="section-wrapper" data-id="SvLyD1"><section class="wp-block-gutenverse-section guten-element guten-section guten-SvLyD1 animated guten-element-hide desktop-fadeInLeft layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-up2rGh animated guten-element-hide desktop-fadeIn"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="up2rGh"><div class="guten-column-wrapper">
+<div class="guten-element guten-spacer guten-vYx30I animated guten-element-hide desktop-fadeInLeft"></div>
+
+
+
+<figure class="wp-block-image size-full wp-duotone-4abdb4-ffffff-4"><img decoding="async" width="512" height="512" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/idea-bulb_8430663-1.png" alt="" class="wp-image-337"/></figure>
+</div></div></div>
+
+
+
+<div class="wp-block-gutenverse-column guten-element guten-column guten-SL9qFt"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="SL9qFt"><div class="guten-column-wrapper">
+<p class="has-zeever-button-border-color has-text-color has-link-color has-normal-font-size wp-elements-3b776664bab94d17892417248dfc4af7"><strong>It is necessary to calibrate when:</strong></p>
+
+
+
+<ol style="font-style:normal;font-weight:700">
+<li>Device Change</li>
+
+
+
+<li>Bumpy Transportation</li>
+
+
+
+<li>Decreased Accuracy</li>
+
+
+
+<li>Bumpy Transportation</li>
+
+
+
+<li>No Calibration for 15 Days or More</li>
+
+
+
+<li>Plugged in with Color Camera</li>
+</ol>
+</div></div></div>
+</div></section></div>
+</div>
+</div>
+
+
+
+<div class="guten-element guten-spacer guten-1Dn4hD"></div>
+
+
+
+<div class="wp-block-columns has-zeever-third-background-color has-background is-layout-flex wp-container-core-columns-layout-11 wp-block-columns-is-layout-flex" style="border-radius:15px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)">
+<div class="wp-block-column has-large-font-size is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50px">
+<div class="guten-element guten-spacer guten-Fh9KF3"></div>
+
+
+
+<figure class="wp-block-image size-full wp-duotone-fcfcfc-ffffff-5"><img loading="lazy" decoding="async" width="512" height="512" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/attention-construction-triangular-hand-drawn-signal_58176-1.png" alt="" class="wp-image-411"/></figure>
+</div>
+
+
+
+<div class="wp-block-column has-large-font-size is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-zeever-button-border-color has-text-color has-link-color wp-elements-e7b03995b8f9b73a219a337cdddf3db8">The acceptable accuracy after calibration in handheld mode is when the result is less than or equal to 0.05mm. If the deviation is more than 0.05mm, recalibration is recommended.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-12 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-13 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-14 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+</div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="ODCX6i"><section class="wp-block-gutenverse-section guten-element guten-section guten-ODCX6i layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-f5kj18"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="f5kj18"><div class="guten-column-wrapper">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-16 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-15 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:120px">
+<h2 class="wp-block-heading has-zeever-button-border-color has-text-color has-link-color wp-elements-90fe4badb99c2fe5c69a0c32bad8dde6">STEP 3</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading"><strong>Scan Mode Selection</strong></h2>
+
+
+
+<div class="guten-element guten-spacer guten-4pDLWm"></div>
+</div>
+</div>
+
+
+
+<div class="section-wrapper" data-id="bxePQi"><section class="wp-block-gutenverse-section guten-element guten-section guten-bxePQi layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-E41H2e"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="E41H2e"><div class="guten-column-wrapper">
+<p class="has-zeever-button-border-color has-text-color has-link-color wp-elements-82014f66ddeaa29db35db952ea7d41fe"><strong>Use <strong>Fixed Scan without Turntable</strong></strong> when:</p>
+
+
+
+<ul class="has-zeever-primary-color has-text-color has-link-color wp-elements-e4104df847dacc1a678aaea34f378029">
+<li>High accuracy and high resolution are required;</li>
+
+
+
+<li>Suitable for objects that are hard to move or too big for turntable scanning.</li>
+</ul>
+</div></div></div>
+
+
+
+<div class="wp-block-gutenverse-column guten-element guten-column guten-UyqDmK"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="UyqDmK"><div class="guten-column-wrapper">
+<p class="has-zeever-button-border-color has-text-color has-link-color wp-elements-b3b46dc7f5fdde9481b8eb9d93117fc7"><strong>Use Handheld Rapid Scan mode when:</strong></p>
+
+
+
+<ul class="has-zeever-primary-color has-text-color has-link-color wp-elements-2de068303132b34765dede1826859d8c">
+<li>High accuracy and high-resolution handheld scanning are required;</li>
+
+
+
+<li>Suitable for objects that are hard to move or too big for turntable scanning.</li>
+</ul>
+</div></div></div>
+
+
+
+<div class="wp-block-gutenverse-column guten-element guten-column guten-ugNSVq"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="ugNSVq"><div class="guten-column-wrapper">
+<p class="has-zeever-button-border-color has-text-color has-link-color wp-elements-b3b46dc7f5fdde9481b8eb9d93117fc7"><strong>Use Handheld Rapid Scan mode when:</strong></p>
+
+
+
+<ul class="has-zeever-primary-color has-text-color has-link-color wp-elements-7f5734634df69f11b846e66479885e93">
+<li>A fast scanning experience is needed;</li>
+
+
+
+<li>Objects with good geometry for feature alignment;</li>
+
+
+
+<li>Objects are hard to move or too big to stay on turntable for scanning.</li>
+</ul>
+</div></div></div>
+</div></section></div>
+</div>
+</div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="gbdMDC"><section class="wp-block-gutenverse-section guten-element guten-section guten-gbdMDC layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-S5sRm5"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="S5sRm5"><div class="guten-column-wrapper">
+<div class="guten-element guten-spacer guten-8nE0NS"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-19 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="919" height="443" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/Untitled-1.png" alt="" class="wp-image-421"/></figure>
+
+
+
+<div class="section-wrapper" data-id="HP0zzr"><section class="wp-block-gutenverse-section guten-element guten-section guten-HP0zzr animated guten-element-hide desktop-fadeInLeft layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-iFSu3Q animated guten-element-hide desktop-fadeIn"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="iFSu3Q"><div class="guten-column-wrapper">
+<figure class="wp-block-image size-full wp-duotone-4abdb4-ffffff-6"><img decoding="async" width="512" height="512" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/idea-bulb_8430663-1.png" alt="" class="wp-image-337"/></figure>
+</div></div></div>
+
+
+
+<div class="wp-block-gutenverse-column guten-element guten-column guten-QjIV2S"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="QjIV2S"><div class="guten-column-wrapper">
+<p><strong>Note: If you have imported a global marker file, new markers cannot be added during the scan.</strong></p>
+</div></div></div>
+</div></section></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-17 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:20%">
+<h2 class="wp-block-heading has-zeever-button-border-color has-text-color has-link-color wp-elements-6b8a8ad947f9fec8b05d40a1d47bba5b">STEP 4</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading"><strong>Handheld Scan</strong></h2>
+</div>
+</div>
+
+
+
+<ol>
+<li class="has-normal-font-size">Open the scanning software and create a new project or load an existing one.</li>
+
+
+
+<li class="has-normal-font-size">Choose the desired scanning accuracy level (medium or low) based on your project requirements.</li>
+
+
+
+<li class="has-normal-font-size">Markers Placement (Optional):
+<ul>
+<li>Before scanning, place markers (mock points) regularly on the surface of the object using markers or reference points.</li>
+
+
+
+<li>Ensure even distribution of mock points to enhance tracking during the scanning process.</li>
+</ul>
+</li>
+</ol>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-18 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:160px"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+</div>
+</div>
+</div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="RbmZI7"><section class="wp-block-gutenverse-section guten-element guten-section guten-RbmZI7 layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-aUINLY"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="aUINLY"><div class="guten-column-wrapper">
+<div class="guten-element guten-spacer guten-ErD7pv"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-21 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-20 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:20%">
+<h2 class="wp-block-heading has-zeever-button-border-color has-text-color has-link-color wp-elements-ace03125443586f381ea6c9e53cf719c">STEP 5</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading"><strong>Brightness Adjustment</strong></h2>
+</div>
+</div>
+
+
+
+<ol class="has-normal-font-size">
+<li class="has-normal-font-size">Use the software interface to adjust the brightness. Locate the relevant button and make necessary adjustments.</li>
+
+
+
+<li>Double-click the Play button to enter/exit the exposure adjustment menu. Adjust brightness by pressing &#8220;+&#8221;/&#8221;-&#8221; buttons on the scanner or dragging the cursor left (-) or right (+).</li>
+</ol>
+
+
+
+<div class="guten-element guten-spacer guten-4W506g"></div>
+
+
+
+<div class="section-wrapper" data-id="dNkCno"><section class="wp-block-gutenverse-section guten-element guten-section guten-dNkCno animated guten-element-hide desktop-fadeInLeft layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-74SnNh animated guten-element-hide desktop-fadeIn"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="74SnNh"><div class="guten-column-wrapper">
+<div class="guten-element guten-spacer guten-blBAER"></div>
+
+
+
+<figure class="wp-block-image size-full wp-duotone-4abdb4-ffffff-7"><img decoding="async" width="512" height="512" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/idea-bulb_8430663-1.png" alt="" class="wp-image-337"/></figure>
+</div></div></div>
+
+
+
+<div class="wp-block-gutenverse-column guten-element guten-column guten-UiBhNn"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="UiBhNn"><div class="guten-column-wrapper">
+<p class="has-zeever-button-border-color has-text-color has-link-color wp-elements-b079ff63c6e2666abb90fa7e1cb75a8d"><strong>Proper Brightness Setting:</strong></p>
+
+
+
+<ul>
+<li>Red indicates overexposed, black is underexposed, and white/light grey is optimal.</li>
+
+
+
+<li>Ensure the brightness is at a level where lines and markers are clearly visible without being overexposed.</li>
+</ul>
+</div></div></div>
+</div></section></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="384" height="353" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/Untitled-2.png" alt="" class="wp-image-422" style="width:563px;height:auto"/></figure>
+</div>
+</div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="67tjug"><section class="wp-block-gutenverse-section guten-element guten-section guten-67tjug layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-TigSFa"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="TigSFa"><div class="guten-column-wrapper">
+<div class="wp-block-columns are-vertically-aligned-center has-zeever-third-background-color has-background is-layout-flex wp-container-core-columns-layout-22 wp-block-columns-is-layout-flex" style="border-radius:15px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)">
+<div class="wp-block-column is-vertically-aligned-center has-large-font-size is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100px">
+<figure class="wp-block-image size-full is-resized wp-duotone-4abdb4-ffffff-8"><img loading="lazy" decoding="async" width="512" height="512" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/idea-bulb_8430663-1.png" alt="" class="wp-image-337" style="width:73px;height:auto"/></figure>
+
+
+
+<div class="guten-element guten-spacer guten-u7Kpo4"></div>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center has-large-font-size is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-zeever-button-border-color has-text-color has-link-color wp-elements-20507f2c35bd492eab474198edcffef8">TIPS BEFORE SCAN: </p>
+
+
+
+<ul class="has-normal-font-size">
+<li>Choose a suitable background to minimize noise during scanning.</li>
+
+
+
+<li>Pay attention to the prompt lights on the scanner to ensure optimal distance.</li>
+
+
+
+<li>Review the software prompts for guidance on distance and lighting conditions.</li>
+
+
+
+<li>Practice scanning at a constant speed for better results.</li>
+</ul>
+</div>
+</div>
+
+
+
+<div class="guten-element guten-spacer guten-d9fgT4"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-24 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="800" height="386" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/scanningprocess-ezgif.com-crop-1.gif" alt="" class="wp-image-423" style="width:563px;height:auto"/></figure>
+
+
+
+<div class="guten-element guten-spacer guten-fcHjbS"></div>
+
+
+
+<div class="section-wrapper" data-id="NBCCmj"><section class="wp-block-gutenverse-section guten-element guten-section guten-NBCCmj animated guten-element-hide desktop-fadeInLeft layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-UboFSh animated guten-element-hide desktop-fadeIn"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="UboFSh"><div class="guten-column-wrapper">
+<div class="guten-element guten-spacer guten-QBEq8Z"></div>
+
+
+
+<figure class="wp-block-image aligncenter size-full wp-duotone-4abdb4-ffffff-9"><img decoding="async" width="512" height="512" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/idea-bulb_8430663-1.png" alt="" class="wp-image-337"/></figure>
+</div></div></div>
+
+
+
+<div class="wp-block-gutenverse-column guten-element guten-column guten-7ozszk"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="7ozszk"><div class="guten-column-wrapper">
+<p class="has-zeever-button-border-color has-text-color has-link-color has-normal-font-size wp-elements-9cd53b0230550878ea65770481113ed5"><strong>Tracking Loss</strong>:</p>
+
+
+
+<ul class="has-normal-font-size">
+<li>In case of tracking loss, return to the previous position where scanning was successful and restart the tracking process.</li>
+
+
+
+<li>Use the distance prompts on both the scanner and software to ensure the proper scanning distance.</li>
+</ul>
+</div></div></div>
+</div></section></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-23 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:20%">
+<h2 class="wp-block-heading has-zeever-button-border-color has-text-color has-link-color wp-elements-dbd72a654af9d34040c5cf5e15c634a0">STEP 6</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading"><strong>Scanning Process</strong></h2>
+</div>
+</div>
+
+
+
+<ol class="has-normal-font-size">
+<li>Double-click the start button on the scanner to begin the scanning process.</li>
+
+
+
+<li>Observe the adjustment results in real-time. Clear visibility of matte points and projection lines indicates optimal settings.</li>
+
+
+
+<li>Maintain a consistent scanning speed for best results.</li>
+</ol>
+
+
+
+<div class="guten-element guten-spacer guten-wykGZt"></div>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="800" height="450" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/deletingtrackinglost-ezgif.com-video-to-gif-converter-1.gif" alt="" class="wp-image-424" style="width:563px;height:auto"/></figure>
+</div>
+</div>
+
+
+
+<h3 class="wp-block-heading"><br></h3>
+
+
+
+<div class="wp-block-columns has-zeever-third-background-color has-background is-layout-flex wp-container-core-columns-layout-25 wp-block-columns-is-layout-flex" style="border-radius:15px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)">
+<div class="wp-block-column has-large-font-size is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50px">
+<figure class="wp-block-image size-full is-resized wp-duotone-fcfcfc-ffffff-10"><img loading="lazy" decoding="async" width="512" height="512" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/attention-construction-triangular-hand-drawn-signal_58176-1.png" alt="" class="wp-image-411" style="width:47px;height:auto"/></figure>
+
+
+
+<div class="guten-element guten-spacer guten-xm35pG"></div>
+</div>
+
+
+
+<div class="wp-block-column has-large-font-size is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-zeever-button-border-color has-text-color has-link-color wp-elements-5fcaf5260a2a5d92d676a11bfdd076ae">Not Recommended During the Scan:</p>
+
+
+
+<ul class="has-normal-font-size">
+<li><strong>Moving the Object:</strong>&nbsp;It is not recommended to move the object during the scan to maintain the position relationship between the object and markers.</li>
+
+
+
+<li><strong>Scanning Objects with Simple Features:</strong>&nbsp;Objects with simple features like plain, symmetric surfaces such as spheres or cylinders are not recommended for feature alignment</li>
+</ul>
+</div>
+</div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="SSFPM3"><section class="wp-block-gutenverse-section guten-element guten-section guten-SSFPM3 layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-PWca0K"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="PWca0K"><div class="guten-column-wrapper">
+<div class="guten-element guten-spacer guten-FTRVwM"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-28 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-26 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:20%">
+<h2 class="wp-block-heading has-zeever-button-border-color has-text-color has-link-color wp-elements-c5ece5ef19afcbd633f928401ae0af63">STEP 7</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading">Post-Processing</h2>
+</div>
+</div>
+
+
+
+<ol class="has-normal-font-size">
+<li>Once scanning is complete, click the complete button on the software interface.</li>
+
+
+
+<li>Use the software tools for simple edits. Select areas with the left mouse button and perform actions like deletion or addition.</li>
+</ol>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-27 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:90%">
+<p class="has-zeever-button-border-color has-text-color has-link-color has-normal-font-size wp-elements-5d894687917226beed47c7b2a8c85f0e">   </p>
+
+
+
+<p class="has-zeever-button-border-color has-text-color has-link-color has-normal-font-size wp-elements-aebbea1a20833380df16b33f3078626b">   3.  Manual Alignment: </p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<figure class="wp-block-image size-full is-resized is-style-default wp-duotone-4abdb4-ffffff-11"><img loading="lazy" decoding="async" width="475" height="221" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/arrow3-1.png" alt="" class="wp-image-428" style="width:192px;height:auto"/></figure>
+</div>
+</div>
+
+
+
+<ul class="has-normal-font-size">
+<li>You can scan several times making different projects one folder.</li>
+
+
+
+<li>Then you can align models placing markers manually. To combine the data, a minimum of 3 markers are required.</li>
+</ul>
+
+
+
+<div class="guten-element guten-spacer guten-nZjbYs"></div>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="800" height="450" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/deleting-ezgif.com-video-to-gif-converter-1.gif" alt="" class="wp-image-425" style="width:563px;height:auto"/></figure>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<div class="guten-element guten-spacer guten-EPwo2b"></div>
+
+
+
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="800" height="450" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/alining2objects-ezgif.com-video-to-gif-converter-1.gif" alt="" class="wp-image-426" style="width:563px;height:auto"/></figure>
+
+
+
+<div class="guten-element guten-spacer guten-f9n6bn"></div>
+
+
+
+<div class="section-wrapper" data-id="4ftfIV"><section class="wp-block-gutenverse-section guten-element guten-section guten-4ftfIV animated guten-element-hide desktop-fadeInLeft layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-nBUOUe animated guten-element-hide desktop-fadeIn"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="nBUOUe"><div class="guten-column-wrapper">
+<div class="guten-element guten-spacer guten-coljs7"></div>
+
+
+
+<figure class="wp-block-image size-full wp-duotone-4abdb4-ffffff-12"><img decoding="async" width="512" height="512" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/idea-bulb_8430663-1.png" alt="" class="wp-image-337"/></figure>
+</div></div></div>
+
+
+
+<div class="wp-block-gutenverse-column guten-element guten-column guten-djq5bl"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="djq5bl"><div class="guten-column-wrapper">
+<p class="has-zeever-button-border-color has-text-color has-link-color has-normal-font-size wp-elements-de3bc888caee64b5f44eb7a269e23a3b">Edit menu</p>
+
+
+
+<ul class="has-small-font-size">
+<li>SHIFT + Left mouse：Select redundant area, the selected section will be displayed in red.</li>
+
+
+
+<li>Ctrl + Left mouse: Deselect selected data.</li>
+
+
+
+<li>Click this button or “DELETE” in the keyboard to delete selected data.</li>
+</ul>
+</div></div></div>
+</div></section></div>
+</div>
+</div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="7eEoNl"><section class="wp-block-gutenverse-section guten-element guten-section guten-7eEoNl layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-WTAUlL"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="WTAUlL"><div class="guten-column-wrapper">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-30 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-29 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:120px">
+<h2 class="wp-block-heading has-zeever-button-border-color has-text-color has-link-color wp-elements-c5ece5ef19afcbd633f928401ae0af63">STEP 7</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading"><strong>Type of mesh Selection</strong></h2>
+
+
+
+<div class="guten-element guten-spacer guten-jIBHr6"></div>
+</div>
+</div>
+
+
+
+<div class="section-wrapper" data-id="loR99z"><section class="wp-block-gutenverse-section guten-element guten-section guten-loR99z layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-SzSNEr"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="SzSNEr"><div class="guten-column-wrapper">
+<p class="has-zeever-button-border-color has-text-color has-link-color has-large-font-size wp-elements-0b7919669da0c1eba213d8c4f004f92d">Watertight Model:</p>
+
+
+
+<ul class="has-zeever-primary-color has-text-color has-link-color has-normal-font-size wp-elements-7aec35c734d0d37df0826b1b9876abbf">
+<li><strong>Characteristics</strong>: Every hole in the model is automatically filled, ensuring a seamless and solid structure.</li>
+
+
+
+<li><strong>Usage</strong>: Suitable for direct 3D printing as the model is complete and closed.</li>
+
+
+
+<li><strong>Processing Time</strong>: Generally quicker than creating an Unwatertight model.</li>
+</ul>
+</div></div></div>
+
+
+
+<div class="wp-block-gutenverse-column guten-element guten-column guten-YWfabh"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="YWfabh"><div class="guten-column-wrapper">
+<p class="has-zeever-button-border-color has-text-color has-link-color has-large-font-size wp-elements-8261f264ec16a7e2e8a3c9ba7bb8a4f0"><strong>Unwatertight Model:</strong></p>
+
+
+
+<ul class="has-zeever-primary-color has-text-color has-link-color has-normal-font-size wp-elements-db1a1a44402b5443766e641ed7a0aac1">
+<li><strong>Characteristics</strong>: The model remains as scanned, with any unclosed parts preserved in the final model.</li>
+
+
+
+<li><strong>Usage</strong>: Helpful when maintaining the original scanned details without any modifications.</li>
+
+
+
+<li><strong>Mesh Resolution</strong>: Does not require selecting a mesh resolution for a watertight finish.</li>
+</ul>
+</div></div></div>
+</div></section></div>
+</div>
+</div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="IRwyHm"><section class="wp-block-gutenverse-section guten-element guten-section guten-IRwyHm layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-T3KtzK"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="T3KtzK"><div class="guten-column-wrapper">
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-32 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-31 wp-block-columns-is-layout-flex">
+<div class="wp-block-column has-zeever-button-border-color has-text-color has-link-color wp-elements-eb342977b58028708f62fa167a99a79f is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:120px">
+<h2 class="wp-block-heading">STEP 8</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading">EXPORT</h2>
+</div>
+</div>
+
+
+
+<ol class="has-normal-font-size">
+<li>After software meshed your model, click Save to export the data.</li>
+
+
+
+<li>By default saving format is .stl. </li>
+
+
+
+<li>Go to the next post to learn more how to print your scanned model.</li>
+</ol>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><div class="guten-dAStNb   guten-post-block guten-element"><div  class="gutenverse guten-postblock postblock-type-2 guten-pagination-disable  post-element guten-dAStNb"  data-id="guten-dAStNb" data-settings="{&quot;inheritQuery&quot;:false,&quot;numberPost&quot;:&quot;1&quot;,&quot;includePost&quot;:[{&quot;label&quot;:&quot;Your First Print&quot;,&quot;value&quot;:148}],&quot;metaEnabled&quot;:false,&quot;postblockType&quot;:&quot;type-2&quot;,&quot;postType&quot;:&quot;post&quot;,&quot;postOffset&quot;:0,&quot;excludePost&quot;:[],&quot;includeCategory&quot;:[],&quot;excludeCategory&quot;:[],&quot;includeAuthor&quot;:[],&quot;includeTag&quot;:[],&quot;excludeTag&quot;:[],&quot;htmlTag&quot;:&quot;h3&quot;,&quot;categoryEnabled&quot;:true,&quot;categoryPosition&quot;:&quot;center&quot;,&quot;excerptEnabled&quot;:true,&quot;excerptLength&quot;:20,&quot;excerptMore&quot;:&quot;...&quot;,&quot;readmoreEnabled&quot;:true,&quot;readmoreIcon&quot;:&quot;fas fa-arrow-right&quot;,&quot;readmoreIconPosition&quot;:&quot;after&quot;,&quot;readmoreText&quot;:&quot;Read More&quot;,&quot;commentEnabled&quot;:false,&quot;commentIcon&quot;:&quot;fas fa-comment&quot;,&quot;commentIconPosition&quot;:&quot;before&quot;,&quot;metaAuthorEnabled&quot;:true,&quot;metaAuthorByText&quot;:&quot;by&quot;,&quot;metaAuthorIcon&quot;:&quot;fas fa-user&quot;,&quot;metaAuthorIconPosition&quot;:&quot;before&quot;,&quot;metaDateEnabled&quot;:true,&quot;metaDateType&quot;:&quot;published&quot;,&quot;metaDateFormat&quot;:&quot;default&quot;,&quot;metaDateFormatCustom&quot;:&quot;&quot;,&quot;metaDateIcon&quot;:&quot;fas fa-clock&quot;,&quot;metaDateIconPosition&quot;:&quot;before&quot;,&quot;paginationMode&quot;:&quot;disable&quot;,&quot;paginationLoadmoreText&quot;:&quot;Load More&quot;,&quot;paginationLoadingText&quot;:&quot;Loading...&quot;,&quot;paginationNumberPost&quot;:3,&quot;paginationScrollLimit&quot;:0,&quot;paginationIcon&quot;:&quot;&quot;,&quot;paginationIconPosition&quot;:&quot;before&quot;,&quot;paged&quot;:1,&quot;class&quot;:null}"><div class="guten-block-container">
+            <div class="guten-posts guten-ajax-flag">
+            <article class="guten-post post-148 post type-post status-publish format-standard has-post-thumbnail hentry category-tutorial">
+                    <div class="guten-thumb"><a href="https://nunitah.github.io/from-scan-to-print/your-first-print/"><div class="thumbnail-container ">
+            <img loading="lazy" decoding="async" width="8000" height="5336" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/designer-using-3d-printer-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" />
+			<div class="guten-overlay"></div>
+        </div></a></div>
+                    <div class="guten-postblock-content"><div class="guten-post-category "><span><a href="https://nunitah.github.io/from-scan-to-print/category/tutorial/" class="category-tutorial">Tutorial</a></span></div><h3 class="guten-post-title"><a href="https://nunitah.github.io/from-scan-to-print/your-first-print/">Your First Print</a></h3>
+                <div class="guten-post-excerpt"><p>Learn more about Prusa MK i3 and create your First print.</p></div>
+            <div class="guten-post-meta-bottom">
+                <div class="guten-meta-readmore icon-position-after">
+                <a href="https://nunitah.github.io/from-scan-to-print/your-first-print/" class="guten-readmore">Read More<i aria-hidden="true" class="fas fa-arrow-right"></i></a>
+            </div>
+            </div></div>
+                </article>
+        </div>
+        </div></div></div></div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-33 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+</div>
+</div></div></div>
+</div></section></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nunitah.github.io/from-scan-to-print/einscan-pro-hd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Prusa 3D Model</title>
+		<link>https://nunitah.github.io/from-scan-to-print/model3d/</link>
+					<comments>https://nunitah.github.io/from-scan-to-print/model3d/#respond</comments>
+		
+		<dc:creator><![CDATA[cocopuncakes]]></dc:creator>
+		<pubDate>Sat, 24 Feb 2024 11:35:46 +0000</pubDate>
+				<category><![CDATA[3D printer]]></category>
+		<category><![CDATA[#3DModel]]></category>
+		<category><![CDATA[#PrusaMK3]]></category>
+		<guid isPermaLink="false">https://nunitah.github.io/from-scan-to-print/?p=173</guid>
+
+					<description><![CDATA[Dive into the world of innovation with interactive 3D model of the Prusa i3 MK3! 🌐🛠️ Explore and learn about every intricate part of this cutting-edge printer right from your screen. From the extruder to the bed!🔍🔧 ]]></description>
+										<content:encoded><![CDATA[
+<div class="section-wrapper" data-id="sWASZm"><section class="wp-block-gutenverse-section guten-element guten-section guten-sWASZm layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-eMJmvP"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="eMJmvP"><div class="guten-column-wrapper">
+<div class="section-wrapper" data-id="6hABMy"><section class="wp-block-gutenverse-section guten-element guten-section guten-6hABMy layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-diB2ot"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="diB2ot"><div class="guten-column-wrapper">
+<div class="guten-element guten-spacer guten-CHIaok"></div>
+
+
+
+<h2 class="wp-block-heading has-zeever-secondary-color has-text-color has-link-color wp-elements-d55bd2a5ef47ff9725db8b32ef29f2d5">Introduction to the Prusa MK i3 3D Model</h2>
+</div></div></div>
+
+
+
+<div class="wp-block-gutenverse-column guten-element guten-column guten-HTaiU7"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="HTaiU7"><div class="guten-column-wrapper"></div></div></div>
+</div></section></div>
+
+
+
+<section class="cover-section2">
+        <div class="content2">
+      <img decoding="async" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/giphy-5.gif" class="image-over2">
+    </div>
+    <div class="content-text2">
+<p style="font-size:24px"> The Prusa i3, an open-source 3D printer by Josef Prusa, is a widely embraced and influential device in the maker and 3D printing community. With a Cartesian frame, single extruder, and a heated print bed, it uses Fused Deposition Modeling (FDM) to create objects layer by layer from melted thermoplastic filament.
+
+Being open source, the Prusa i3 encourages collaborative development, allowing users to modify and enhance the design. Over time, newer versions like the MK2, MK3, etc., bring improvements in features, reliability, and user-friendliness.</p>
+      
+      <p style="font-size:26px; color:#FF910A">
+&#8220;Hang tight! Our model is working to provide you with the information you need, loading shortly.&#8221;</p>
+    </div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="YO5d4C"><section class="wp-block-gutenverse-section guten-element guten-section guten-YO5d4C layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-dHMmiC"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="dHMmiC"><div class="guten-column-wrapper">
+<div class="section-wrapper" data-id="04qDQR"><section class="wp-block-gutenverse-section guten-element guten-section guten-04qDQR layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-UsuMNr"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="UsuMNr"><div class="guten-column-wrapper">
+<div class="section-wrapper" data-id="aSZ2zR"><section class="wp-block-gutenverse-section guten-element guten-section guten-aSZ2zR animated guten-element-hide desktop-fadeInLeft layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-TuDziA"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="TuDziA"><div class="guten-column-wrapper">
+<figure class="wp-block-image size-full wp-duotone-ff910a-ffffff-13"><img loading="lazy" decoding="async" width="512" height="512" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/idea-bulb_8430663-1.png" alt="" class="wp-image-337"/></figure>
+</div></div></div>
+
+
+
+<div class="wp-block-gutenverse-column guten-element guten-column guten-xjnBPm"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="xjnBPm"><div class="guten-column-wrapper">
+<p class="has-zeever-primary-color has-text-color has-link-color has-small-font-size wp-elements-35e74058aba19bee7279fced16bcb2c9"><strong>Click on numbers to see more information about different parts of PRUSA MK i3. </strong></p>
+</div></div></div>
+</div></section></div>
+</div></div></div>
+
+
+
+<div class="wp-block-gutenverse-column guten-element guten-column guten-A2PyUz"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="A2PyUz"><div class="guten-column-wrapper"></div></div></div>
+</div></section></div>
+
+
+
+<div class="sketchfab-embed-wrapper"><iframe loading="lazy" title="Prusa i3 MK3S" src="https://sketchfab.com/models/01e291eb5f054839b84b6d78303163ce/embed?autostart=1&amp;annotations_visible=1&amp;transparent=1" width="1000" height="750" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;"><a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/3d-models/prusa-i3-mk3s-01e291eb5f054839b84b6d78303163ce?utm_medium=embed&amp;utm_campaign=share-popup&amp;utm_content=01e291eb5f054839b84b6d78303163ce" target="_blank" rel="nofollow noopener"> Prusa i3 MK3S </a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/wyrkshop?utm_medium=embed&amp;utm_campaign=share-popup&amp;utm_content=01e291eb5f054839b84b6d78303163ce" target="_blank" rel="nofollow noopener"> Innovation Wyrkshop </a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/?utm_medium=embed&amp;utm_campaign=share-popup&amp;utm_content=01e291eb5f054839b84b6d78303163ce" target="_blank" rel="nofollow noopener">Sketchfab</a></p>
+</div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="guten-element guten-spacer guten-oxCylC"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nunitah.github.io/from-scan-to-print/model3d/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Your First Print</title>
+		<link>https://nunitah.github.io/from-scan-to-print/your-first-print/</link>
+					<comments>https://nunitah.github.io/from-scan-to-print/your-first-print/#respond</comments>
+		
+		<dc:creator><![CDATA[cocopuncakes]]></dc:creator>
+		<pubDate>Thu, 22 Feb 2024 22:44:32 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<guid isPermaLink="false">https://nunitah.github.io/from-scan-to-print/?p=148</guid>
+
+					<description><![CDATA[Learn more about Prusa MK i3 and create your First print.]]></description>
+										<content:encoded><![CDATA[
+<div class="section-wrapper" data-id="dkoHsi"><section class="wp-block-gutenverse-section guten-element guten-section guten-dkoHsi layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-rJTYmv animated guten-element-hide desktop-fadeInLeft"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="rJTYmv"><div class="guten-column-wrapper">
+<div class="guten-element guten-spacer guten-fNFYJ8"></div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="guten-element guten-spacer guten-x6BIuN"></div>
+
+
+<div class="guten-gp3uRT   guten-post-title guten-element"><h1>Your First Print</h1></div>
+
+
+<div class="wp-block-columns is-style-default has-zeever-primary-color has-text-color has-link-color wp-elements-1331af35e503341eda9c9ef1ae5d9d8d is-layout-flex wp-container-core-columns-layout-35 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-large-font-size">This brief tutorial is designed to help you kickstart your printing journey with the PRUSA MK i3. Follow these simple steps to set up your printer and start creating amazing prints. Let&#8217;s get started!</p>
+
+
+
+<p class="has-zeever-secondary-color has-text-color has-link-color wp-elements-1a0e498beb975323b2b3be8582b926a8">If you want to lear more about different parts of Prusa MK i3. Click Learn more button.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-34 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<div style="background-color: #FF910A;
+      border: none;
+      color: #fff;
+      padding: 10px 20px;
+      align-items: center;
+       display: flex;
+      justify-content: center;
+      weight: 150px; 
+      border-radius: 30px;
+      cursor: pointer;" onclick="startTutorial()">
+    Start tutorial
+  </div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-zeever-third-color has-zeever-bodytext-background-color has-text-color has-background has-link-color wp-element-button">Learn more</a></div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%"></div>
+</div>
+
+
+
+<div class="guten-element guten-spacer guten-xpgpXs"></div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="xSVZKe"><section class="wp-block-gutenverse-section guten-element guten-section guten-xSVZKe layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-5gEoHv"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="5gEoHv"><div class="guten-column-wrapper"></div></div></div>
+
+
+
+<div class="wp-block-gutenverse-column guten-element guten-column guten-3VsTE9"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="3VsTE9"><div class="guten-column-wrapper">
+<div class="guten-element guten-accordions guten-NqcBaD">
+<div class="accordion-item"><div class="accordion-heading"><div class="accordion-icon"><span class="accordion-icon-open"><i class="fas fa-minus"></i></span><span class="accordion-icon-closed"><i class="fas fa-plus"></i></span></div><span class="accordion-text">LOADING FILAMENT</span></div><div class="accordion-body"><div class="accordion-content">
+<div class="wp-block-columns has-zeever-third-background-color has-background is-layout-flex wp-container-core-columns-layout-36 wp-block-columns-is-layout-flex" style="border-radius:15px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)">
+<div class="wp-block-column has-large-font-size is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50px">
+<figure class="wp-block-image size-full wp-duotone-fcfcfc-ffffff-14"><img loading="lazy" decoding="async" width="512" height="512" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/attention-construction-triangular-hand-drawn-signal_58176-1.png" alt="" class="wp-image-411"/></figure>
+
+
+
+<div class="guten-element guten-spacer guten-Fh9KF3"></div>
+</div>
+
+
+
+<div class="wp-block-column has-large-font-size is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-zeever-secondary-color has-text-color has-link-color wp-elements-c2860b1d2d45723d901c05733456e252">This steps just if filament is not loaded!</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-38 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-cover" style="min-height:316px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img loading="lazy" decoding="async" width="1647" height="883" class="wp-block-cover__image-background wp-image-581" alt="" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/image_2024-02-25_134437685.png" data-object-fit="cover"/><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<p class="has-text-align-center has-zeever-primary-color has-text-color has-link-color has-large-font-size wp-elements-1384e94a8d7503cac8906db5df2ade7c">SPOOL OF FILAMENT</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border wp-duotone-ff910a-ff910a-15"><img loading="lazy" decoding="async" width="480" height="480" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/giphy-4.gif" alt="" class="wp-image-221" style="border-style:none;border-width:0px;border-radius:0px;width:171px;height:auto"/></figure>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-37 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:120px">
+<h2 class="wp-block-heading has-zeever-secondary-color has-text-color has-link-color has-large-font-size wp-elements-0344215e7f54cef2e3520956e453486f">STEP 1</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading has-large-font-size"><strong><strong>Secure the Filament Spool</strong></strong></h2>
+</div>
+</div>
+
+
+
+<ol class="has-normal-font-size">
+<li class="has-normal-font-size">If you are using a spool of filament, ensure it is properly secured. Use the small holes on the sides of the spool holder to prevent any tangles or feeding issues during printing.</li>
+
+
+
+<li><strong>Prepare the Filament:</strong>
+<ul>
+<li>Trim the molten end of the filament to form a sharp tip. Use side cutters for a clean cut. This step ensures a smooth and easy insertion into the printer.</li>
+</ul>
+</li>
+</ol>
+</div>
+</div>
+
+
+
+<div class="section-wrapper" data-id="XznhrX"><section class="wp-block-gutenverse-section guten-element guten-section guten-XznhrX layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-b8Yume"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="b8Yume"><div class="guten-column-wrapper">
+<section class="cover-section">
+<div class="overlay"> </div>
+<p><img decoding="async" class="background-image" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/designer-using-3d-printer-3-1.jpg" alt="Background Image" /></p>
+<div class="content"><img decoding="async" class="image-over" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/output-onlinepngtools-1-1.png" /></div>
+<div class="content-text">
+<p class="step-white">Press the</p>
+<p class="step-ho">LCD-knob</p>
+<p class="step-white">and choose the “Preheat” option from the menu, it will preheat to the temperature suitable for the material you plan to use( you can choose your filament type in LCD-menu. The preheating process helps soften the filament and prepares the printer for extrusion.</p>
+</div>
+</section>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-41 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-39 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:120px">
+<h2 class="wp-block-heading has-zeever-secondary-color has-text-color has-link-color has-large-font-size wp-elements-6721473335ffc740724fdc8adfe356bb">STEP 3</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading has-large-font-size"><strong><strong>Insert Filament into the Extruder</strong></strong></h2>
+</div>
+</div>
+
+
+
+<ol>
+<li class="has-normal-font-size">With the printer preheated, manually guide the sharp tip of the filament into the extruder body. Some printers have a specific entry point or a filament loading port. Ensure you follow the printer&#8217;s guidelines.</li>
+</ol>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-40 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:150px">
+<div class="guten-element guten-spacer guten-WeZTWC"></div>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:160px">
+<p class="has-zeever-secondary-color has-text-color has-link-color has-large-font-size wp-elements-011c679a2b34986ded4dbde7ac67e64b">Check picture</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized wp-duotone-ff910a-ff910a-16"><img loading="lazy" decoding="async" width="475" height="221" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/arrow3.png" alt="" class="wp-image-138" style="width:157px;height:auto"/></figure>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="481" height="323" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/Untitled-3.png" alt="" class="wp-image-587" style="aspect-ratio:3/2;object-fit:cover"/><figcaption class="wp-element-caption">FROM <a href="https://blog.prusa3d.com/fr/mise-a-jour-de-novembre-2020-original-prusa-i3-mk3s-et-mini-maintenant-disponibles-kit-mini-en-preparation-nouvelle-feuille-dacier-disponible_40870/" data-type="link" data-id="https://blog.prusa3d.com/fr/mise-a-jour-de-novembre-2020-original-prusa-i3-mk3s-et-mini-maintenant-disponibles-kit-mini-en-preparation-nouvelle-feuille-dacier-disponible_40870/">Prusa blog</a></figcaption></figure>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-43 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-42 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:120px">
+<h2 class="wp-block-heading has-zeever-secondary-color has-text-color has-link-color has-large-font-size wp-elements-71523ab0d59b760970812f3c284c0df0">STEP 4</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<h2 class="wp-block-heading has-large-font-size"><strong><strong><strong>Initiate Filament Insertion via LCD Menu</strong></strong></strong></h2>
+</div>
+</div>
+
+
+
+<ol>
+<li class="has-normal-font-size">Use the printer&#8217;s LCD menu to select the &#8220;Load Filament&#8221; option. Keep your fingers on the filament. </li>
+</ol>
+</div>
+</div>
+</div></div></div>
+</div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="yXa38p"><section class="wp-block-gutenverse-section guten-element guten-section guten-yXa38p layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-lLYBuY"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="lLYBuY"><div class="guten-column-wrapper">
+<div class="section-wrapper" data-id="1WJGr1"><section class="wp-block-gutenverse-section guten-element guten-section guten-1WJGr1 layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-wDSwzx"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="wDSwzx"><div class="guten-column-wrapper">
+<section>
+  <section id="block2">
+    <div class="custom-section">
+      <div class="three-columns">
+        <div class="column">
+          <div class="step-ob">PRUSA</div>
+          <div class="step-bt" style="color: var(--white-color);">Slicer</div>
+          <p>&#8211; Accept G-code and more other formats<br />&#8211; Custom supports and modifier meshes <br />&#8211; Differential print settings <br />&#8211; Variable layer height <br />&#8211; Firmware flasher</p>
+          <a href="https://help.prusa3d.com/article/first-print-with-prusaslicer_1753" class="gradient-button">Learn more</a>
+        </div>
+        <div class="column">
+          <div class="step-ob">PRONTERFACE</div>
+          <p>&#8211; Use when USB connection needed <br />&#8211; Full control on 3D Printer <br />&#8211; Accept just G-code</p>
+          <a href="https://all3dp.com/2/pronterface-how-to-download-install-and-set-it-up/" class="gradient-button">Learn more</a>
+        </div>
+        <div class="column-larger">
+          <div class="step-ho">STEP 1</div>
+          <div class="step-hbt" style="color: var(--white-color);">Slicing</div>
+          <p>When you download 3D models from the internet or create your own models, you will need to convert the 3D model (.stl, .obj.) into a set of instructions for the printer called G-code.</p>
+          <p>There are dozens of slicers available, each with their own advantages and disadvantages.</p>
+          <div class="position-bottom-column">
+            <img decoding="async" class="icon-image" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/arrow3.png" />
+            <a href="your_slicer_tutorials_link" class="step-bmall">Check slicer tutorials</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</section>
+
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="guten-element guten-spacer guten-0CnZZ1"></div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="ETcwu0"><section class="wp-block-gutenverse-section guten-element guten-section guten-ETcwu0 layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-DNcsXY"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="DNcsXY"><div class="guten-column-wrapper">
+<p><!-- Add some space between rows --></p>
+<div style="height: 30px;"> </div>
+<section>
+<div class="section-standard" style="font-size: 20px;"><!-- First Row -->
+<div class="obsidian-row"><!-- First Column with Image -->
+<div class="obsidian-column"><img decoding="async" class="image-column" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/ASDsd.jpg" alt="Image Alt Text 1" /></div>
+<p><!-- Second Column with Text --></p>
+<div class="obsidian-column">
+<div style="padding: 20px;">
+<div class="step-ho">STEP 2</div>
+<div class="step-hbt">Inspection</div>
+<p> </p>
+<p style="padding: 20px;">1. Heatbed inspection <br />2. X-axis smooth rods inspection <br />3. Y-axis smooth rods inspection <br />4. Printer frame inspection</p>
+<p>Wipe the dirt from the entire length of the smooth rods with a paper towel. <br />The surface must be clean, smooth, and without corrosion.</p>
+</div>
+</div>
+</div>
+  
+  
+<p><!-- Add some space between rows --></p>
+<div style="height: 0px;"> </div>
+<p><!-- Second Row --></p>
+<div class="obsidian-row"><!-- First Column with Text -->
+<div class="obsidian-column" style="alight-text: left;">
+<div style="padding: 20px;">
+<div class="step-ho">STEP 3</div>
+<div class="step-hbt">Innitialization</div>
+<div style="padding: 20px;">
+<p>1. Power On:</p>
+<p style="padding-left: 20px;">Connect the printer to a power source and turn it on.</p>
+<p>2. Preheat:</p>
+<p style="padding-left: 20px;">Preheat the printer to the recommended temperature for bed leveling. The printer must be preheated for the correct filament type. You can see the current stats in the main-info screen.</p>
+<p>If you forget to preheat the printing nozzle and the bed before printing, the printer will automatically check the temperatures of the nozzle and the bed; printing will start when the desired temperature is reached &#8211; that can take several minutes</p>
+</div>
+</div>
+</div>
+<p><!-- Second Column with Image --></p>
+<div class="obsidian-column"> <video controls class="image-column" width="100%" height="600px" poster="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/pexels-jakub-zerdzicki-19588204.jpg"> 
+        <source src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/Untitled-video-Made-with-Clipchamp-1.mp4" type="video/mp4">
+      </div>
+</div>
+</div>
+</section>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="GMKf7e"><section class="wp-block-gutenverse-section guten-element guten-section guten-GMKf7e layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-LTY15j"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="LTY15j"><div class="guten-column-wrapper">
+<div class="custom-section">
+<div class="step-ho">STEP 4</div>
+<div class="step-hbt">Printing</div>
+<p class="step-white-normal" style="font-size: 20px;">Choosing Print Modes on Prusa i3 MK3 3D Printer:</p>
+<p> </p>
+<div class="two-columns-black-back">
+<p><!-- FIRST Column --></p>
+<div class="column-black-back">
+<p class="step-ob">Stealth mode</p>
+ <hr class="hr-line">
+<p class="step-white-normal">Noise Level:<br></p>
+    <li class="step-white-normal" style = "padding-left:20px">Printer is almost silent; fan noise is the primary sound.</li>
+<p class="step-white-normal">Lost Step Detection:<br></p>
+    <li class="step-white-normal" style = "padding-left:20px">Not available in Stealth mode.</li>
+<p class="step-white-normal">Speed:<br></p>
+    <li class="step-white-normal" style = "padding-left:20px">Printing is approximately 5-20% slower than in Normal mode, depending on the specific model.</li>
+<p class="step-white-normal">Recommended For: <br></p>
+    <li class="step-white-normal" style = "padding-left:20px"> Users who prioritize an extremely quiet printing environment over lost step detection and are willing to trade a slight decrease in printing speed.</li>
+</div>
+<p><!-- Second Column --></p>
+<div class="column-black-back">
+<p class="step-ob">Normal</p>
+  <hr class="hr-line">
+<p class="step-white-normal">Noise Level:<br></p>
+    <li class="step-white-normal" style = "padding-left:20px"> Quiet</li>
+<p class="step-white-normal">Lost Step Detection: <br></p>
+  <li class="step-white-normal" style = "padding-left:20px"> Enabled in Normal mode.</li>
+<p class="step-white-normal">Speed:<br></p>
+   <li class="step-white-normal" style = "padding-left:20px">Generally faster compared to Stealth mode.</li>
+<p class="step-white-normal">Recommended For: <br></p>
+  <li class="step-white-normal" style = "padding-left:20px"> Users prioritizing lost step detection and a balance between speed and noise.</li>
+</div>
+</div>
+</div>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="EfAwz1"><section class="wp-block-gutenverse-section guten-element guten-section guten-EfAwz1 layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-ikIreA"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="ikIreA"><div class="guten-column-wrapper">
+<section class="cover-section">
+<div class="overlay"> </div>
+<p><img decoding="async" class="background-image" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/designer-using-3d-printer-3-1.jpg" alt="Background Image" /></p>
+<div class="content"><img decoding="async" class="image-over" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/output-onlinepngtools-1-1.png" /></div>
+<div class="content-text">
+<p class="step-white">Press the</p>
+<p class="step-ho">LCD-knob</p>
+<p class="step-white">and choose the Print from SD option from the menu, press to confirm and pick the desired model file_name.gcode.</p>
+<p class="step-bmall">Watch the first few printed layers to be sure filament has attached to the bed properly (5 to 10 minutes).</p>
+</div>
+</section>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="mkLyBo"><section class="wp-block-gutenverse-section guten-element guten-section guten-mkLyBo layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-s6d1QC"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="s6d1QC"><div class="guten-column-wrapper">
+<p><!-- Add some space between rows --></p>
+<div style="height: 60px;"> </div>
+<section><!-- First Row -->
+<div class="obsidian-row" style="font-size: 20px;">
+  <!-- First Column with Image -->
+<div class="obsidian-column"><img decoding="async" class="image-column" src="  https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/pexels-jakub-zerdzicki-17509941.jpg" alt="Image Alt Text 1" /><div class="tips-block">
+ <img decoding="async" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/output-onlinepngtools-2.png" alt="Tip Image"> 
+<p style="color: var(--main-color); padding-left: 100px;">Recommendation:</p>
+<p style ="padding-left: 100px;"> IPA at least 90%+(for everyday printing before every print) or WINDEX. Acetone once a week(reduce sticking of the bed)</p>
+</div></div>
+   
+<p><!-- Second Column with Text --></p>
+<div class="obsidian-column">
+<div style="padding: 20px;">
+<div class="step-ho">STEP 5</div>
+<div class="step-hbt">Post-Processing</div>
+<p> </p>
+<div style="padding: 20px;">
+<p>1. Remove Print:</p>
+<p style="padding-left: 20px;">Once the print is complete, remove bed in the beginning</p>
+<p>2. Clean and Store:</p>
+<p style="padding-left: 20px;">Clean the bed with and store the printer properly for future use.</p>
+<p> </p>
+
+</div>
+</div>
+  <img decoding="async" class="image-column" src="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/tom-claes-MvaHog0civM-unsplash.jpg" alt="Image Alt Text 1" />
+</div>
+</div>
+</section>
+<p><!-- Add some space between rows --></p>
+<div style="height: 60px;"> </div>
+<section></section>
+<p><!-- Add some space between rows --></p>
+<div style="height: 60px;"> </div>
+</section>
+</div></div></div>
+</div></section></div>
+
+
+
+<div class="section-wrapper" data-id="cXBKmf"><section class="wp-block-gutenverse-section guten-element guten-section guten-cXBKmf layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-PUftmP"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="PUftmP"><div class="guten-column-wrapper">
+<div class="guten-element guten-accordions guten-CBPked">
+<div class="accordion-item active"><div class="accordion-heading"><div class="accordion-icon"><span class="accordion-icon-open"><i class="fas fa-minus"></i></span><span class="accordion-icon-closed"><i class="fas fa-plus"></i></span></div><span class="accordion-text">TECHNIQUES FOR POST-PROCESSING</span></div><div class="accordion-body"><div class="accordion-content">
+<div class="section-wrapper" data-id="JYhJX9"><section class="wp-block-gutenverse-section guten-element guten-section guten-JYhJX9 layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-shape-divider guten-shape-divider-top"></div><div class="guten-shape-divider guten-shape-divider-bottom"></div><div class="guten-container guten-column-gap-default">
+<div class="wp-block-gutenverse-column guten-element guten-column guten-j6ojyR"><div class="guten-background-overlay"></div><div class="sticky-wrapper" data-id="j6ojyR"><div class="guten-column-wrapper">
+<div class="guten-element guten-spacer guten-fxuo7R"></div>
+
+
+
+<p class="has-text-align-center has-zeever-secondary-color has-text-color has-link-color has-normal-font-size wp-elements-730df95ed6aef742b482fafa4aac90e7">After 3D printing a model, post-processing is often necessary to improve the final appearance, strength, and functionality of the printed object.</p>
+
+
+
+<div class="guten-element guten-spacer guten-KLl0Lt"></div>
+
+
+
+<div class="guten-element gutenverse-text-editor guten-7zBufl"><div class="text-content-inner">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-44 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center has-normal-font-size is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-zeever-secondary-color has-text-color has-link-color wp-elements-76a0e3683ba018df19ffea69f3de151c"><strong>Painting:</strong></p>
+
+
+
+<ul>
+<li>Painting is a common post-processing step for aesthetic purposes. Acrylic paints or other suitable paints can be applied to give the model its desired color and finish.<br></li>
+</ul>
+
+
+
+<p class="has-zeever-secondary-color has-text-color has-link-color wp-elements-0ba1828b2619166532d99cd5b4f210e6"><strong>Assembly:</strong></p>
+
+
+
+<ul>
+<li>If your model consists of multiple parts, post-processing may involve assembling them together. Techniques like gluing, snapping, or screwing parts together may be used.</li>
+</ul>
+
+
+
+<ul style="padding-top:0;padding-bottom:0" class="has-normal-font-size">
+<li></li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-top has-normal-font-size is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-zeever-secondary-color has-text-color has-link-color wp-elements-96498ca0f645cfcd291434def93e1308"><strong>Support Removal:</strong></p>
+
+
+
+<ul>
+<li>If your 3D printer uses support structures to print overhangs or complex geometries, you may need to remove these supports carefully. This can be done using tools such as pliers, tweezers, or specialized support removal tools.<br></li>
+</ul>
+
+
+
+<p class="has-zeever-secondary-color has-text-color has-link-color wp-elements-831cac0f95c8bf371a89c19681b2f737"><strong>Surface Smoothing:</strong></p>
+
+
+
+<ul>
+<li>Depending on the printing technology and material, the printed surface may have visible layer lines. Smoothing techniques such as sanding, filing, or using chemical smoothing agents can be applied to achieve a smoother finish.</li>
+</ul>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div></section></div>
+</div></div></div>
+</div>
+</div></div></div>
+</div></section></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nunitah.github.io/from-scan-to-print/your-first-print/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://nunitah.github.io/from-scan-to-print/wp-content/uploads/2024/02/Untitled-video-Made-with-Clipchamp-1.mp4" length="29934723" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

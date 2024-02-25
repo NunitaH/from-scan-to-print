@@ -830,7 +830,8 @@ function startTutorial2() {
         </div></div></div></div></div>
 </div>
 </div></section></div>
-
+	
+<div id="custom-comments"></div>
 
 <footer class="wp-block-template-part">
 <div class="section-wrapper" data-id="sGVF85"><section class="wp-block-gutenverse-section guten-element guten-section guten-sGVF85 layout-boxed align-stretch"><div class="guten-background-overlay"></div>
@@ -964,21 +965,30 @@ wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
 wp.apiFetch.nonceEndpoint = "https://nunitah.github.io/from-scan-to-print/wp-admin/admin-ajax.php?action=rest-nonce";</script>
 <script id="gutenverse-frontend-event-js-extra">var GutenverseData = {"postId":"102","query":{"q_search":null},"settingsData":[]};</script>
 <script src="https://nunitah.github.io/from-scan-to-print/wp-content/plugins/gutenverse/assets/js/frontend.js?ver=1.9.0" id="gutenverse-frontend-event-js"></script>
-<script src="https://giscus.app/client.js"
-	id ="comments" 
-        data-repo="NunitaH/from-scan-to-print"
-        data-repo-id="R_kgDOLX0BFw"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOLX0BF84CdglV"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
+<script>
+    // Function to set up Giscus in the custom-comments div
+    function setupGiscus() {
+        // Get the original script element
+        var originalScript = document.getElementById('comments');
+
+        // Create a new script element
+        var newScript = document.createElement('script');
+
+        // Copy the attributes from the original script
+        for (var i = 0; i < originalScript.attributes.length; i++) {
+            var attr = originalScript.attributes[i];
+            newScript.setAttribute(attr.name, attr.value);
+        }
+
+        // Set the target element ID to the custom-comments div
+        newScript.setAttribute('id', 'custom-comments');
+
+        // Append the new script element to the body
+        document.body.appendChild(newScript);
+    }
+
+    // Call the function to set up Giscus in the custom-comments div
+    setupGiscus();
 </script>
 </body>
 </html>
